@@ -1,7 +1,7 @@
 /*
 Please note that it's Function problem i.e.
 you need to write your solution in the form of Function(s) only.
-Driver Code to call/invoke your function would be added by GFG's Online Judge.
+Driver Code to call/invoke your function would be added by LeetCode's Online Judge.
 
 Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.
 
