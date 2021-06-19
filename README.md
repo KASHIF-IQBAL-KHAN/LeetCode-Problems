@@ -1,2 +1,2 @@
 # LeetCode-Problems
-This repository contains solutions of DS-ALGO problems of LeetCode.
+This repository contains the solution of DS-ALGO problems of LeetCode.
